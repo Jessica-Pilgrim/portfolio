@@ -1,0 +1,239 @@
+{
+  "main": {
+    "name":"Jessica Pilgrim",
+    "description":"I am a visual artist and graphic designer using Adobe Creative Suite to bring your imagination to life. Keep scrolling to learn more.",
+    "image":"profilepic.jpg",
+    "bio":"Expanding skills learned through my performing arts degree into the field of graphic design and visual storytelling. Dedicated and hard working, I offer freelance services and love being part of a team.",
+    "contactmessage":"Let's talk!",
+    "email": "jmarie.pilgrim@gmail.com",
+    "phone": "902-809-2796",
+    "address":{
+      "city":"Halifax",
+      "state":"Nova Scotia"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jessica-pilgrim-703064234",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"BYOL Advanced Training",
+        "degree":"Adobe Creative Suite Certification (Advanced)",
+        "graduated":"2022",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"Memorial University",
+        "degree":"Bachelor of Arts, Visual Arts",
+        "graduated":"2013",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2018 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2017 - February 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Photoshop",
+        "level":"90%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"75%"
+      },
+      {
+        "name":"Premier Pro",
+        "level":"90%"
+      },
+      {
+        "name":"After Effects",
+        "level":"50%"
+      },
+      {
+        "name":"Krita",
+        "level":"90%"
+      },
+      {
+        "name":"Storyboarding",
+        "level":"90%"
+      },
+      {
+        "name":"Mockups",
+        "level":"90%"
+      },
+      {
+        "name":"Photography",
+        "level":"80%"
+      },
+      {
+        "name":"Illustration",
+        "level":"95%"
+      },
+      {
+        "name":"Animation",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Double Exposure",
+        "category":"",
+        "image":"01.jpg",
+        "url":""
+      },
+      {
+        "title":"Watercolour Bird",
+        "category":"",
+        "image":"03.jpg",
+        "url":""
+      },
+      {
+        "title":"Content Aware Sunset",
+        "category":"",
+        "image":"04.jpg",
+        "url":""
+      },
+      {
+        "title":"Revelation",
+        "category":"",
+        "image":"05.jpg",
+        "url":""
+      },
+      {
+        "title":"Eye Enhancement",
+        "category":"",
+        "image":"06.jpg",
+        "url":""
+      },
+      {
+        "title":"Clipping Masks",
+        "category":"",
+        "image":"08.jpg",
+        "url":""
+      },
+      {
+        "title":"Secret Garden",
+        "category":"",
+        "image":"09.jpg",
+        "url":""
+      },
+      {
+        "title":"Peel the Sky",
+        "category":"",
+        "image":"10.jpg",
+        "url":""
+      },
+      {
+        "title":"Anaglyph",
+        "category":"",
+        "image":"12.jpg",
+        "url":""
+      },
+      {
+        "title":"Gradient",
+        "category":"",
+        "image":"13.jpg",
+        "url":""
+      },
+      {
+        "title":"Duotones",
+        "category":"",
+        "image":"18.jpg",
+        "url":""
+      },
+      {
+        "title":"Magazine Mockup",
+        "category":"",
+        "image":"14.jpg",
+        "url":""
+      },
+      {
+        "title":"Selective Hue",
+        "category":"",
+        "image":"15.jpg",
+        "url":""
+      },
+      {
+        "title":"Visual Decay",
+        "category":"",
+        "image":"16.jpg",
+        "url":""
+      },
+      {
+        "title":"Sunflower",
+        "category":"",
+        "image":"19.jpg",
+        "url":""
+      },
+      {
+        "title":"Photo Retouch",
+        "category":"",
+        "image":"20.jpg",
+        "url":""
+      },
+      {
+        "title":"Visual Decay II",
+        "category":"",
+        "image":"21.jpg",
+        "url":""
+      },
+      {
+        "title":"Marquee",
+        "category":"",
+        "image":"22.jpg",
+        "url":""
+      },
+      {
+        "title":"Vanishing Point",
+        "category":"",
+        "image":"17.jpg",
+        "url":""
+      },
+      {
+        "title":"Get Messy",
+        "category":"",
+        "image":"02.jpg",
+        "url":""
+      },
+      {
+        "title":"Perpetual Pour",
+        "category":"",
+        "image":"07.gif",
+        "url":""
+      },
+      {
+        "title":"Watercolour II",
+        "category":"",
+        "image":"23.jpg",
+        "url":""
+      },
+      {
+        "title":"Watercolour III",
+        "category":"",
+        "image":"24.jpg",
+        "url":""
+      }
+    ]
+  }
+}

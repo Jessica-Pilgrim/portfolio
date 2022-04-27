@@ -6,7 +6,7 @@
     "bio":"Expanding skills learned through my performing arts degree into the field of graphic design and visual storytelling. Dedicated and hard working, I offer freelance services and love being part of a team.",
     "contactmessage":"Let's talk!",
     "email": "jmarie.pilgrim@gmail.com",
-    "phone": "902-809-2796",
+    "phone": "+1 (902) 809-2796",
     "address":{
       "city":"Halifax",
       "state":"Nova Scotia"
@@ -22,19 +22,19 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"BYOL Advanced Training",
         "degree":"Adobe Creative Suite Certification (Advanced)",
         "graduated":"2022",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":""
       },
       {
         "school":"Memorial University",
         "degree":"Bachelor of Arts, Visual Arts",
         "graduated":"2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":""
       }
     ],
     "work":[
@@ -42,13 +42,13 @@
         "company":"Awesome Design Studio",
         "title":"Senior UX God ",
         "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":""
       },
       {
         "company":"Super Cool Studio",
         "title":"Junior bug fixer",
         "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":""
       }
     ],
     "skills":[
